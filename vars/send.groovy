@@ -1,4 +1,4 @@
-import org.example.Constants
+import org.sample.Constants
 
 def call(Map config=[:]) {
     if (config.type == "slack") {
